@@ -14,7 +14,7 @@ Abaixo encontra-se um exemplo de uma imagem criada com apenas formas básicas no
 
 ## 3. Informação
 ### 3.1 Licença
-Este projeto esta licenciado sob os termos da [MIT License](https://github.com/MateusAquino/tabs-to-sheets/blob/master/LICENSE). Aproveite!
+Este projeto esta licenciado sob os termos da [MIT License](https://github.com/MateusAquino/paint-simples/blob/master/LICENSE). Aproveite!
 
 ### 3.2 Author
 Mateus de Aquino: [LinkedIn](https://www.linkedin.com/in/mateus-de-aquino/)
